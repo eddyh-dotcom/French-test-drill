@@ -1,5 +1,7 @@
 # French Drill
 
+**Live app:** <https://eddyh-dotcom.github.io/French-test-drill/> — open on your phone, then Share → Add to Home Screen.
+
 Two modes, toggled at the top of the page:
 
 - **Temps** — drills *which tense the context demands* (not mechanical
